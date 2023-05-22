@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <unistd.h>
 /**
- * main - prints exactly and that piece of art is usuful
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
